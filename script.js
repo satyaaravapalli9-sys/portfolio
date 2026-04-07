@@ -1,5 +1,5 @@
 /* ============================================
-   SNEHA CHANDRA - PORTFOLIO JAVASCRIPT
+   SATYA KUMAR - PORTFOLIO JAVASCRIPT
    Modern, Aesthetic, Creative, 3D, Responsive
    ============================================ */
 
@@ -152,14 +152,14 @@ function initTypingEffect() {
     if (!typedElement) return;
 
     const roles = [
-        'Tech Enthusiast',
-        'Cybersecurity Researcher',
-        'IoT Developer',
-        'Blockchain Explorer',
-        'Web Developer',
-        'Team Leader',
-        'Published Researcher',
-        'Sports Enthusiast'
+        'Full Stack Developer',
+        'Java Engineer',
+        'AWS Cloud Architect',
+        'Site Reliability Engineer',
+        'Microservices Expert',
+        'React Developer',
+        'DevOps Practitioner',
+        'AI Enthusiast'
     ];
 
     let roleIndex = 0;
@@ -325,7 +325,7 @@ function initFormHandler() {
         };
 
         // Create mailto link
-        const mailtoLink = `mailto:snehachandra042@gmail.com?subject=${encodeURIComponent(data.subject)}&body=${encodeURIComponent(
+        const mailtoLink = `mailto:satyaaravapalli9@gmail.com?subject=${encodeURIComponent(data.subject)}&body=${encodeURIComponent(
             `Name: ${data.name}\nEmail: ${data.email}\n\nMessage:\n${data.message}`
         )}`;
 
@@ -547,7 +547,7 @@ window.addEventListener('load', () => {
 /* ============================================
    CONSOLE EASTER EGG
    ============================================ */
-console.log('%c Welcome to Sneha Chandra\'s Portfolio! ',
+console.log('%c Welcome to Satya Kumar\'s Portfolio! ',
     'background: linear-gradient(135deg, #8b5cf6, #ec4899); color: white; font-size: 16px; padding: 10px 20px; border-radius: 5px;');
 console.log('%c Built with passion and creativity ',
     'color: #8b5cf6; font-size: 12px;');
