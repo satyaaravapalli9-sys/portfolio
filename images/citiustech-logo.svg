@@ -1,0 +1,8 @@
+<svg width="220" height="64" viewBox="0 0 220 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="220" height="64" rx="16" fill="#FFFFFF"/>
+  <rect x="1.5" y="1.5" width="217" height="61" rx="14.5" stroke="#D8DEE8"/>
+  <path d="M32 17L41 32L32 47H21L30 32L21 17H32Z" fill="#F36F21"/>
+  <path d="M47 17L56 32L47 47H36L45 32L36 17H47Z" fill="#EA4335"/>
+  <path d="M62 17L71 32L62 47H51L60 32L51 17H62Z" fill="#F9AB00"/>
+  <text x="82" y="37" fill="#25364A" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">CitiusTech</text>
+</svg>
