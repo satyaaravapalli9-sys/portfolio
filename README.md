@@ -56,7 +56,7 @@ open index.html
 ## Contact
 
 - **Email:** satyaaravapalli9@gmail.com
-- **LinkedIn:** [satya-kumar](https://linkedin.com/in/satya-kumar)
+- **LinkedIn:** [satya-kumar-aravapalli-0421b3127](https://www.linkedin.com/in/satya-kumar-aravapalli-0421b3127?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 - **GitHub:** [satyaaravapalli9-sys](https://github.com/satyaaravapalli9-sys)
 - **Phone:** +1 (872) 276-7788
 
